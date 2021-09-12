@@ -266,7 +266,7 @@ def bot_with_cyclic_update_process(update_event, answer_scores):
     upd_thread.start()
 
     loop = asyncio.get_event_loop()
-    loop.create_task(bot.start('ODg2NjQ1MzE3Njk5Nzg0Nzg0.YT4mzA.zcK_nkSexPcvZ6YKbU27lKmAHNg'))
+    loop.create_task(bot.start'ODg2NjQ1MzE3Njk5Nzg0Nzg0.YT4mzA.sZK-vvkdklLUg29hBB2sf4OtrbA'))
     loop.run_forever()
 
 
